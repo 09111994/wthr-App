@@ -1,5 +1,9 @@
 # 🌦️ Weather App – Flutter
 
+## 📸 App Screenshots
+
+![Weather App](screenshots/weather1.png)
+
 A simple and user-friendly Weather App built with **Flutter and Dart** that provides real-time weather information using a Weather API.
 
 ## ✨ Features
