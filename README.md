@@ -1,20 +1,37 @@
-<<<<<<< HEAD
-# weather_ap
+# 🌦️ Weather App – Flutter
 
-A new Flutter project.
+A simple and user-friendly Weather App built with **Flutter and Dart** that provides real-time weather information using a Weather API.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🌡️ Display current temperature
+- 🌤️ Show weather conditions and descriptions
+- 💨 Display wind speed
+- 💧 Show humidity levels
+- 🌅 Sunrise and sunset timings
+- 🌍 Get weather information for a city
+- 🔄 Fetch live weather data using API integration
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- REST API
+- HTTP Package
+- JSON Parsing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# wthr-App
->>>>>>> d185e71ebd42d16dc18689ce4f3445de203ba019
+## 📱 About the Project
+
+This project was developed to improve my Flutter development skills and gain practical experience with API integration, JSON data handling, asynchronous programming, and building responsive user interfaces.
+
+## 👨‍💻 Developer
+
+**Ahmed Raza**
+
+Flutter Developer | Learning & Building Mobile Applications
+
+GitHub: https://github.com/09111994
+
+---
+
+⭐ If you like this project, feel free to explore the repository!
